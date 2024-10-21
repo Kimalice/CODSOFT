@@ -1,0 +1,8 @@
+
+Movie Genre Classification Project Description
+This project focuses on classifying movies into different genres based on their plot summaries using machine learning techniques. Leveraging natural language processing (NLP), we preprocess the data, extract features using TF-IDF vectorization, and apply various classification algorithms such as Naive Bayes, Logistic Regression, and Support Vector Machines (SVM).
+
+The model is trained on a diverse dataset containing movie plots and their corresponding genres, allowing it to learn patterns and relationships between text and genre categories. After training, the model's performance is evaluated using metrics like accuracy, precision, recall, and F1 score, providing insights into its effectiveness.
+
+The goal is to assist users in discovering films that align with their interests by predicting genres accurately, ultimately enhancing the movie-watching experience.
+
