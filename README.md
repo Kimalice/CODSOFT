@@ -2,9 +2,6 @@
 CODSOFT: A collection of my projects organized into task-based folders, showcasing my work in machine learning, AI, and data science.
 
 
-# Project Portfolio
-
-A collection of my machine learning projects, each solving a unique problem in data science and AI.
 
 # Project Portfolio
 
